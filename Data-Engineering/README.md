@@ -1,7 +1,9 @@
 Overview
 This repository documents my journey through the Google Cloud Platform (GCP) Data Engineering Learning Path and hands-on labs completed on Qwiklabs. Each folder contains labs, quizzes, and exercises that explore essential concepts in data engineering on GCP, covering topics like data ingestion, transformation, processing, and storage.
 
-Key Skills and Topics Covered
+Key Topics and projects covered
+Introduction to Data Engineering
+ELT/ EL/ ETL Data Pipeline processing
 Data Storage and Management: Working with BigQuery, Cloud Storage, Datastore, and Bigtable for efficient data management.
 Data Processing and Transformation: Leveraging Dataflow, Apache Beam, and Dataproc to create data pipelines.
 Machine Learning Pipelines: Implementing ML models using AI Platform and Vertex AI.
