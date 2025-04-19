@@ -41,3 +41,40 @@ Data orchestration with Cloud Composer
 Using BigQuery ML for predictive models
 Designing fault-tolerant pipelines
 
+📊 Google Cloud Data Analysis Learning Path (Qwiklabs/GCP Skills Boost)
+This path focuses on using Google Cloud to explore, analyze, visualize, and draw insights from data.
+
+📘 Core Courses:
+Introduction to Data Analytics on Google Cloud
+
+Data Management and Storage on Google Cloud
+
+Data Transformation on Google Cloud
+
+The Power of Data Storytelling with Google Cloud
+
+Capstone: Preparing for a Data Analyst Job with GCP
+
+🧪 Sample Labs:
+Exploring Datasets with BigQuery
+Joining Data and Writing Complex Queries
+Data Cleaning with SQL in BigQuery
+Data Visualization using Looker Studio (formerly Data Studio)
+Using Google Sheets with BigQuery for Dashboards
+Creating and Sharing Insights with BigQuery
+
+🔗 Optional/Advanced Courses in Both Paths:
+BigQuery ML (for machine learning directly inside SQL)
+Looker BI Platform (for building data exploration models)
+Data Governance with Data Catalog
+Security and Access Management with IAM
+
+✅ Tools You’ll Gain Hands-on Experience With:
+BigQuery (core tool for querying and analyzing data)
+Cloud Storage (storing structured/unstructured data)
+Dataflow (ETL/ELT with Apache Beam)
+Pub/Sub (real-time messaging)
+Dataproc (Hadoop/Spark jobs)
+Vertex AI & BigQuery ML (ML training and inference)
+Cloud Composer (workflow orchestration)
+Looker Studio / Looker (dashboards and storytelling)
