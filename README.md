@@ -34,13 +34,10 @@ Capstone challenges and labs
 
 🧪 7. Hands-on Labs Included in the Track
 Some of the labs you’ll complete include:
-
 Querying data with BigQuery
 Streaming data with Pub/Sub and Dataflow
-
 Running Spark jobs on Dataproc
 Data orchestration with Cloud Composer
-
 Using BigQuery ML for predictive models
 Designing fault-tolerant pipelines
 
