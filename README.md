@@ -46,13 +46,9 @@ This path focuses on using Google Cloud to explore, analyze, visualize, and draw
 
 📘 Core Courses:
 Introduction to Data Analytics on Google Cloud
-
 Data Management and Storage on Google Cloud
-
 Data Transformation on Google Cloud
-
 The Power of Data Storytelling with Google Cloud
-
 Capstone: Preparing for a Data Analyst Job with GCP
 
 🧪 Sample Labs:
